@@ -1,0 +1,4 @@
+## Instalar dependencias
+``` 
+npm install
+```
